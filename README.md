@@ -23,7 +23,6 @@ The analysis is based on a .csv dataset containing information about students fr
 * Duplicates removed and mising values substituted apporpriately.
 * All data standardised and data types corrected.
 * Excel functions utilised to create two new columns for 'Experience level' and 'Engagement levels'.
-
 ## POWER BI(Visualise)
 * Dashboard created with following:
 * Custom DAX measures
@@ -33,6 +32,16 @@ The analysis is based on a .csv dataset containing information about students fr
 * Line/Area Chart: Enrollment trend by month
 * scatter plot: Correlation between Progress and Rating
 * Engagement Heatmap
-
+## Key insights
+# overview 1 (filtered by course category)
+* Features a breakdown of completion rates by the top 5 course categories and countries.
+* Feedback rating received per course/category.
+#  overview 2 (filtered by year, course, country and experience)
+* Enrollment trend analysis for past four years and forecast of next three years.
+* Study of corelation between progress and rating
+* Display of average time spent by category.
+# overview 3 (drill down)
+* Engagemnet heatmap by course, country, gender.
+* 
  
 
