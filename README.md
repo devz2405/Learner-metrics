@@ -20,9 +20,10 @@ The analysis is based on a .csv dataset containing information about students fr
 * Key Fields: Student details, country, age, gender, course name, course category, enrollment date, progress percent, time spent, completion, feedback rating and number of sessions attended.
 ## EXCEL(Clean)
 * Raw data was checked for missing values and duplicates.
-* Duplicates removed and mising values substituted apporpriately.
+* Mising values of age substituted with mean(blue) and mail with unknown(red).
 * All data standardised and data types corrected.
-* Excel functions utilised to create two new columns for 'Experience level' and 'Engagement levels'.
+* Excel functions utilised to create two new columns for 'Experience level' and 'Engagement levels'(blue).
+* High performers were identified(green).
 ## POWER BI(Visualise)
 * Dashboard created with following:
 * Custom DAX measures
