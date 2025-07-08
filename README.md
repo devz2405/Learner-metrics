@@ -41,7 +41,6 @@ The analysis is based on a .csv dataset containing information about students fr
 * Study of corelation between progress and rating
 * Display of average time spent by category.
 # overview 3 (drill down)
-* Engagemnet heatmap by course, country, gender.
-* 
+* Engagement heatmap by course, country, gender.
  
 
