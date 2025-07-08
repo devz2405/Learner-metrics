@@ -1,5 +1,5 @@
 # Learner-metrics
-Online platform-student performance and engagemnet analysis
+Online platform-student performance and engagement analysis
 ## Project Overview 
 This project focuses on analyzing student performance and engagement on an online course platform. By leveraging data cleaning techniques in Microsoft Excel and powerful visualization capabilities in Power BI, it aims to provide actionable insights into student behavior, course completion rates, and learning progress across different course categories.
 ## Problem Solved 
